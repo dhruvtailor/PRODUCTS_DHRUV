@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mi_smartphones"
+
+        android:title="Smartphones" />
+    <item
+        android:id="@+id/mi_laptops"
+        android:title="Laptops" />
+    <item
+        android:id="@+id/mi_skincare"
+        android:title="Skincare" />
+    <item
+        android:id="@+id/mi_groceries"
+        android:title="Groceries" />
+</menu>
